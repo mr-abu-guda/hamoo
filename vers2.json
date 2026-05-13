@@ -1,6 +1,17 @@
 {
-  "ver1": 2,
-  "ver2": 25,
-  "ver3": "- Fixed crash\n- New features",
-  "dli": "https://example.com/app.apk"
+  "records": [
+    {
+      "version": "2.24.5.76",
+      "code": 8,
+      "url": "https://........",
+      "changelog": "- bug fixes\n- new features",
+      "ver1": 2,
+      "ver2": 24,
+      "ver3": "- Fixed crash\n- Added dark mode",
+      "dli": "https://download.link/update.apk",
+      "exp101": 150,
+      "exp110": 200,
+      "exp224": 365
+    }
+  ]
 }
