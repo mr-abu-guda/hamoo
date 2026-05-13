@@ -1,10 +1,1 @@
-{
-  "records": [
-    {
-      "version": "2.0 (Beta)",
-      "code": 76,
-      "url": "https://www.mediafire.com/file/example/YourApp.apk/file",
-      "changelog": "- Fixed crashing when opening settings\n- Improved app startup speed\n- Updated anti-ban protection\n- Added new themes"
-    }
-  ]
-}
+{"records":[{"version":"v","code":10,"url":"u","changelog":"c"}]}
