@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "title": "ANUNCIÓ:👇",
-  "message": "Nuevo video en YouTube",
+  "title": "اصدار جديد",
+  "message": "قم بتحميل احدث اصدار لضمان استقرار التطبيق ",
   "download_url": "https://youtu.be/tVxXZSL50h4?si=dmGtlB5vnGwM9nVU",
-  "minimum_version_code": 1,
-  "version_name": "Como ver mensajes editados",
+  "minimum_version_code": 7,
+  "version_name": "برو ماكس اوف اح",
   "release_notes": [
-    "Solucionar temas",
+    "شغل فاخر م الاخر",
     "Recibir notificación quien leyo el mensaje",
     "VCTM PRODUCCIONES PERÚ"
   ]
