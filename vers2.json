@@ -1,1 +1,13 @@
-text
+{
+  "enabled": true,
+  "title": "ANUNCIÓ:👇",
+  "message": "Nuevo video en YouTube",
+  "download_url": "https://youtu.be/tVxXZSL50h4?si=dmGtlB5vnGwM9nVU",
+  "minimum_version_code": 1,
+  "version_name": "Como ver mensajes editados",
+  "release_notes": [
+    "Solucionar temas",
+    "Recibir notificación quien leyo el mensaje",
+    "VCTM PRODUCCIONES PERÚ"
+  ]
+}
