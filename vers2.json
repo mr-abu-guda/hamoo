@@ -1,1 +1,6 @@
-{"records":[{"version":"v","code":10,"url":"u","changelog":"c"}]}
+{
+  "ver1": 2,
+  "ver2": 25,
+  "ver3": "- Fixed crash\n- New features",
+  "dli": "https://example.com/app.apk"
+}
